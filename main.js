@@ -2,7 +2,7 @@ const toggleBtn = document.querySelector(".toggle-btn");
 const light = document.querySelector(".light");
 const navToggle = document.querySelector(".nav-toggle");
 const links = document.querySelector(".links"); 
-
+console.log(toggleBtn);
 
 toggleBtn.addEventListener("click", () => {
         toggleBtn.classList.toggle("active");
