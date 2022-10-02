@@ -405,7 +405,7 @@ nav .logo_image {
     }
     .lamp_container {
         position: absolute;
-        top: -40px;
+        top: 0;
         left: 35%;
         width: 160px;
     }
@@ -434,11 +434,12 @@ nav .logo_image {
 
     .text_container {
         max-width: 300px;
-        margin-top: 28%;
-        margin-left: 20%;
+        margin-top: 45%;
+        margin-left: 18%;
         user-select: none;
     }
     .text_container a {
+        margin-top: 3rem;
         padding: 10px 20px;
         font-size: 14px;
     }
